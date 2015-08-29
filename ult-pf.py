@@ -1,3 +1,4 @@
+#takes the alpha color of a picture and overlays it in clear white on another picture
 import os
 from gimpfu import *
 
