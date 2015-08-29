@@ -1,3 +1,6 @@
+#this is a gimp plug in that takes a file of text, and generates an image from each line
+#the image is similar to the original, aside from having the line of text different for one layer
+
 import os
 from gimpfu import *
 
